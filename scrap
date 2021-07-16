@@ -1,0 +1,7 @@
+npm install --save-dev @nomiclabs/hardhat-ethers ethers
+
+npm install --save-dev dotenv
+
+
+
+ALCHEMY_MAINNET_RPC_URL='https://eth-mainnet.alchemyapi.io/v2/your-api-key'
